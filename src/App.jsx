@@ -52,7 +52,7 @@ const tiers = [
     icon: Flame,
     color: "#E06B26",
     title: "Diagnostic personnalisé",
-    price: "12 000 FCFA",
+    price: "50 000 FCFA",
     tagline: "Pour savoir précisément où tu perds de l'argent",
     items: [
       "Analyse de ton terrain, ton budget, ton activité",
@@ -68,7 +68,7 @@ const tiers = [
     icon: Wheat,
     color: "#C4322A",
     title: "Immersion sur le terrain",
-    price: "35 000 FCFA",
+    price: "80 000 FCFA",
     tagline: "Pour voir, toucher, comprendre — chez moi, à Odziba",
     items: [
       "Journée complète sur mon exploitation intégrée",
